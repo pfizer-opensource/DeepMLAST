@@ -31,7 +31,7 @@ reconstructed using Bruker’s NRecon software. The application expects data to 
 
 ## Using the Application
 
-1.	Launching the application – To launch the application, run DeepMLAST.m in Matlab R2019.a. Note that the application was written in Matlab 2019.a, and may encounter errors if run in another version. 
+1.	Launching the application – To launch the application, run DeepMLAST.m in Matlab R2021.a. Note that the application was written in Matlab R2021.a, and may encounter errors if run in another version. Also note that the Deep Learning Toolbox is required to run the application.
 2.	Selecting a study – Running the application will launch a graphical user interface (GUI) titled “Deep MLAST” (as well as a black console window). 
 	Only one button will be enabled – the Study Folder “Select” button. Click this button and select the folder of the study which you want to analyze. 
 	Note that the application will only find scans that are saved somewhere within this study folder, so the user should select a folder level under which all scans are included.
