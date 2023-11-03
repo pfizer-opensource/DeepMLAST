@@ -1,5 +1,6 @@
 # DeepMLAST
 Deep learning project for automated semantic segmentation of spontaneous lung tumors in murine microCT 
+Please contact Mary.Montgomery@pfizer.com with any questions.
 
 ## Application Description
 Deep MLAST is a Matlab-based application which applies a deep learning model to perform semantic segmentation of thoracic mCT scans of naïve and lung tumor-bearing mice. 
